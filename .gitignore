@@ -1,0 +1,6 @@
+node_modules/
+*.psd
+*.map
+*.dcs
+*.vscode
+passwords.txt
